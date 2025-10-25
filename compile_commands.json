@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/j/TinyBar/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/j/TinyBar/build/TinyBar_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtNetwork -std=gnu++17  -o CMakeFiles/TinyBar.dir/TinyBar_autogen/mocs_compilation.cpp.o -c /home/j/TinyBar/build/TinyBar_autogen/mocs_compilation.cpp",
+  "file": "/home/j/TinyBar/build/TinyBar_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/TinyBar.dir/TinyBar_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/j/TinyBar/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/j/TinyBar/build/TinyBar_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtNetwork -std=gnu++17  -o CMakeFiles/TinyBar.dir/main.cpp.o -c /home/j/TinyBar/main.cpp",
+  "file": "/home/j/TinyBar/main.cpp",
+  "output": "CMakeFiles/TinyBar.dir/main.cpp.o"
+},
+{
+  "directory": "/home/j/TinyBar/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/j/TinyBar/build/TinyBar_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtNetwork -std=gnu++17  -o CMakeFiles/TinyBar.dir/lib/widgets/BarManager.cpp.o -c /home/j/TinyBar/lib/widgets/BarManager.cpp",
+  "file": "/home/j/TinyBar/lib/widgets/BarManager.cpp",
+  "output": "CMakeFiles/TinyBar.dir/lib/widgets/BarManager.cpp.o"
+},
+{
+  "directory": "/home/j/TinyBar/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/j/TinyBar/build/TinyBar_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtNetwork -std=gnu++17  -o CMakeFiles/TinyBar.dir/lib/widgets/Clock.cpp.o -c /home/j/TinyBar/lib/widgets/Clock.cpp",
+  "file": "/home/j/TinyBar/lib/widgets/Clock.cpp",
+  "output": "CMakeFiles/TinyBar.dir/lib/widgets/Clock.cpp.o"
+},
+{
+  "directory": "/home/j/TinyBar/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/j/TinyBar/build/TinyBar_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtNetwork -std=gnu++17  -o CMakeFiles/TinyBar.dir/lib/widgets/Slider.cpp.o -c /home/j/TinyBar/lib/widgets/Slider.cpp",
+  "file": "/home/j/TinyBar/lib/widgets/Slider.cpp",
+  "output": "CMakeFiles/TinyBar.dir/lib/widgets/Slider.cpp.o"
+},
+{
+  "directory": "/home/j/TinyBar/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/j/TinyBar/build/TinyBar_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtNetwork -std=gnu++17  -o CMakeFiles/TinyBar.dir/lib/sockets/HyprListener.cpp.o -c /home/j/TinyBar/lib/sockets/HyprListener.cpp",
+  "file": "/home/j/TinyBar/lib/sockets/HyprListener.cpp",
+  "output": "CMakeFiles/TinyBar.dir/lib/sockets/HyprListener.cpp.o"
+},
+{
+  "directory": "/home/j/TinyBar/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/j/TinyBar/build/TinyBar_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtNetwork -std=gnu++17  -o CMakeFiles/TinyBar.dir/lib/ConfigManager.cpp.o -c /home/j/TinyBar/lib/ConfigManager.cpp",
+  "file": "/home/j/TinyBar/lib/ConfigManager.cpp",
+  "output": "CMakeFiles/TinyBar.dir/lib/ConfigManager.cpp.o"
+}
+]
