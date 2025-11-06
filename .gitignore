@@ -1,0 +1,40 @@
+# Qt build files
+build*/
+*.pro.user
+*.qbs.user
+*.pro.user.*
+*.qbs.user.*
+
+# Compiled object files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.app
+*.a
+*.lib
+
+# Backup and temporary files
+*~
+*.autosave
+*.swp
+*.tmp
+**/.cache/
+
+# Qt Creator settings
+.idea/
+*.user
+*.creator.*
+*.user.*
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+Makefile
+*.ninja
+*.ninja_deps
+*.ninja_log
+compile_commands.json
